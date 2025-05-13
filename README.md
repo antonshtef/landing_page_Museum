@@ -1,8 +1,8 @@
-    [Website](https://antonshtef.github.io/landing_page_Museum/)
+[Website](https://antonshtef.github.io/landing_page_Museum/)
 
-    [Figma Design](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&t=8ztxXvrZ16KoolO0-0)
+[Figma Design](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&t=8ztxXvrZ16KoolO0-0)
 
-    This landing page project for the Museum showcases responsive design and a comprehensive range of features implemented using HTML5, SCSS, and JavaScript.
+This landing page project for the Museum showcases responsive design and a comprehensive range of features implemented using HTML5, SCSS, and JavaScript.
 
 Project Overview
 Technologies Used: HTML5, SCSS, JavaScript
